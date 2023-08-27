@@ -1,0 +1,28 @@
+*{
+    margin : 0;
+    padding : 0;
+    background-color: rgb(249, 218, 223);
+}
+.heading{
+    align-items: center;
+    text-align: center;
+}
+.table{
+    margin : 0 auto ;
+
+}
+.box{
+    width : 60px;
+    height : 60px;
+    border : 1px solid gray;
+    border-style: inset;
+}
+.black{
+    background-color: black;
+}
+.white{
+    background-color: white;
+}
+.pink{
+    background-color: rgb(128, 96, 159);
+}
